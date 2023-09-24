@@ -15,3 +15,5 @@
 🏫 School: Currently pursuing my BSIT degree at St. Paul University Surigao, where I'm gaining knowledge and honing my tech skills.
 
 📫 Contact: You can reach me via email or connect on LinkedIn. Let's connect and build something amazing!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
