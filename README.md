@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello! I'm Brendan Raul Degrano, a passionate BSIT (Bachelor of Science in Information Technology) student from St. Paul University Surigao in the beautiful Philippines 🇵🇭. I'm excited to embark on this coding journey and share my projects with you on GitHub.
+👋 Hello! I'm Brendan Raul Degrano, a passionate BS Information Technology student from St. Paul University Surigao in the beautiful Philippines. I'm excited to embark on this coding journey and share my projects with you on GitHub.
 
 🌐 Web Development Enthusiast: My heart beats for web development. I'm proficient in HTML, CSS, and PHP, and I love crafting responsive and engaging web experiences. From sleek front-end designs to robust back-end functionalities, I'm up for the challenge.
 
