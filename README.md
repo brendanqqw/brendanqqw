@@ -12,4 +12,3 @@ Skills: VB.NET/ Python / JAVASCRIPT / PHP / HTML / CSS / NC2 CSS
 
 
 
-https://pbs.twimg.com/profile_banners/1760944768820150272/1708677047/1500x500
